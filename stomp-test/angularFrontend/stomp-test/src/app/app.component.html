@@ -1,0 +1,12 @@
+<div class="note">
+    <p>
+        Before sending a file, open the DevTools (CTRL + SHIFT + i), go
+        to Network and select 'ws-test'.<br>
+        Then select frames to see all the frames.
+    </p>
+    <p>The file will appear below when it's sent.</p>
+</div>
+<div>
+    <input type="file" accept="text/plain" (change)="onLoadFile($event)" />
+    <pre>{{ convertedFile | json }}</pre>
+</div>

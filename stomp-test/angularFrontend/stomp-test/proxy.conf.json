@@ -1,0 +1,6 @@
+{
+    "/ws-test": {
+        "target": "ws://localhost:7500",
+        "ws": true
+    }
+}
