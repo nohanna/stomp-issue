@@ -16,7 +16,7 @@
     <properties>
         <springframework.framework.version>5.1.2.RELEASE</springframework.framework.version>
         <springframework.boot.version>2.1.0.RELEASE</springframework.boot.version>
-        <com.fasterxml.jackson.core.jackson-databind.version>2.9.7</com.fasterxml.jackson.core.jackson-databind.version>
+        <com.fasterxml.jackson.core.jackson-databind.version>2.9.8</com.fasterxml.jackson.core.jackson-databind.version>
     </properties>
 
     <dependencies>

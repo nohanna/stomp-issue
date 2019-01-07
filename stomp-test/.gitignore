@@ -1,0 +1,5 @@
+/angularFrontend/node_modules
+/angularFrontend/package-lock.json
+/.idea
+*.iml
+target
